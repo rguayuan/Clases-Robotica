@@ -17,8 +17,12 @@
 # Materiales de Clase
  - Diapositivas clase
     - ColorSpace, HPF, LPF https://docs.google.com/presentation/d/1nr2BKgvMc--Gl3opMiPFgAhvOlhXRYfanaK_B_aAPMc/edit?usp=sharing
+    - Moments https://docs.google.com/presentation/d/17cFoDkSohimsbb-z0iOjnNti_Yi3o9iM-UvdKd-5lRY/edit?usp=sharing
  - Videos de clase 
     - ColorSpace, HPF, LPF https://drive.google.com/file/d/13yWM1DMUZXl9m0FdRiE8fjoQL1rABw3y/view?usp=sharing
+    - Moments, Contours In process...
+ - Tareas de Clase 
+    - Sheet Rotation https://docs.google.com/spreadsheets/d/1l470o4F58-Qbjzswtojz9STdxOxCcgEO6Gk58sayV2k/edit#gid=0
 
 
 

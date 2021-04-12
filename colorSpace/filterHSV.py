@@ -16,7 +16,7 @@ cv2.createTrackbar("maxH","original",255,255,callback)
 cam=cv2.VideoCapture(0)
 
 while(cam.isOpened()):
-    r,frame=cam.read()
+    frame=cv2.imread("../Moments/huImages/original.jpg")
     cv2.imshow("original",frame)
 
     #obtener imagen en HSV
