@@ -21,7 +21,6 @@
    ![Image not Found](https://builtin.com/sites/default/files/inline-images/Principal%20Component%20Analysis%20second%20principal.gif)
  - Importante info sobre PCA https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c
  - Herramienta para dibujo util https://miro.com/app/dashboard/
- - 
 
 # Materiales de Clase
  - Diapositivas clase
