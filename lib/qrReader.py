@@ -12,7 +12,7 @@ def getQRS(img):
 
 #EXAMPLE
 
-# img=cv2.imread('./small.jpg')
-# imgRGB=cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
-# for QR in getQRS(img):
-#     print("The QR DATA",QR)
+img=cv2.imread('./testqr.jpg')
+imgRGB=cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
+for QR in getQRS(img):
+    print("The QR DATA",QR)
