@@ -40,6 +40,8 @@ Este proyecto busca desarrollar una plataforma de simulacion para los robots ott
     - Construir el dict `{x:xn,y:yn,w:wn,h:hn}` y retornarlo como salida de la funcion 
     - Crear un fork del repo actual y guardar el script anterior en su fork bajo el path `Simulator/posNorm.py`
     - Testear la funcion 
+    - Obtener una foto de la imagen capturada por la camera superior y subirla a `Simulator/camera.png`
+    - Screen de la pantalla imprimiendo el output de la funcion y el frame capturado con cv2.imshow y subirlo a `Simulator/screen.png`
 
 - Completar el siguiente sheet con mail  https://docs.google.com/spreadsheets/d/1i-rm3hZDKwqlCrBOrCRxgDBqB0jtZm0hU4ir3Lu2l48/edit?usp=sharing
 - Due Date: 07/05/20
