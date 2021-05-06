@@ -32,6 +32,7 @@
     - Tarea Simulator https://drive.google.com/file/d/1WaMErPZQjcLc58hNUOZFi5qGdugrfqQH/view?usp=sharing
  - Tareas de Clase 
     - Sheet Rotation https://docs.google.com/spreadsheets/d/1l470o4F58-Qbjzswtojz9STdxOxCcgEO6Gk58sayV2k/edit#gid=0
+    - Sheet Simulator https://docs.google.com/spreadsheets/d/1i-rm3hZDKwqlCrBOrCRxgDBqB0jtZm0hU4ir3Lu2l48/edit?usp=sharing
 
 
 
