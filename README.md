@@ -29,6 +29,7 @@
  - Videos de clase 
     - ColorSpace, HPF, LPF https://drive.google.com/file/d/13yWM1DMUZXl9m0FdRiE8fjoQL1rABw3y/view?usp=sharing
     - Moments, Contours https://drive.google.com/file/d/1gKLfpjxbAuWxkEaQewb0YHZZsgPjWSWT/view?usp=sharing
+    - Tarea Simulator https://drive.google.com/file/d/1WaMErPZQjcLc58hNUOZFi5qGdugrfqQH/view?usp=sharing
  - Tareas de Clase 
     - Sheet Rotation https://docs.google.com/spreadsheets/d/1l470o4F58-Qbjzswtojz9STdxOxCcgEO6Gk58sayV2k/edit#gid=0
 
