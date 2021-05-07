@@ -1,17 +1,16 @@
 import cv2
 import numpy as np 
 
-cv2.namedWindow("original")
-cv2.namedWindow("filtered")
+cv2.namedWindow("main")
+
 
 def callback(x):
     pass
 
-cv2.createTrackbar("minH","original",0,255,callback)
-cv2.createTrackbar("maxH","original",0,255,callback)
 
 #video capture args 
-#Si es un numerico 0,1,2
+#Si es un numerico 0,1,2 lee las camaras fisicas conectadas a la pc, 
+# siendo 0 la primera camara (Generalmente la integrada) y n la enesima camara 
 #Si es una url lee el buffer de video
 cam=cv2.VideoCapture(0)
 
